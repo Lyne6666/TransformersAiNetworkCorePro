@@ -1,2 +1,1 @@
-# TransformersAiNetworkCorePro
-Advanced TransformersAiNetworkCorePro project
+.
